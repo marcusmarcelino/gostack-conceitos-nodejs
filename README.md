@@ -22,7 +22,7 @@
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido no desafio f01 do GoStack.
+Este projeto foi desenvolvido no - desafio 02: Conceitos do Node.js do - GoStack.
 
 - [Node.js](https://nodejs.org/en/)
 
